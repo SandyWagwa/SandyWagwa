@@ -1,4 +1,4 @@
-[![MasterHead](https://webitexperts.com/images/banner1_1.gif)]
+[![MasterHead](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80)]
 
 <h1 align="center">Hi 👋, I'm Sandra Wagwa</h1>
 <h3 align="center">Full-Stack Software Engineer | Nairobi, Kenya</h3>
