@@ -2,13 +2,12 @@
 <h3 align="center">Full-Stack Software Engineer | Nairobi, Kenya</h3>
 
 <p align="center">
-  <b>Results-driven Full-Stack Developer with 3+ years of experience building fast, scalable and secure web applications.</b><br/>
-  Specialized in <b>React, Vue 3, Java, Spring Boot, Node.js, TypeScript, Django & Laravel 11</b>.
+  <b> I am a esults-driven Full-Stack Developer with 3+ years of experience building fast, scalable and secure web applications.</b><br/>
+  Specialized in <b>React, Vue 3, Java, Spring Boot, Node.js, Django & Laravel 11</b>.
 </p>
 
 <p align="center">
   <a href="https://experience-express-deploy.lovable.app/" target="_blank"><b>Portfolio</b></a> •
-  <a href="https://github.com/SandyWagwa" target="_blank"><b>GitHub</b></a> •
   <a href="https://www.linkedin.com/in/sandra-wagwa-52115229b/" target="_blank"><b>LinkedIn</b></a>
 </p>
 
@@ -57,14 +56,6 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-<h2>📜 Certification</h2>
-<p>
-  <b>Developing Back-End Apps with Node.js & Express – IBM (2025)</b><br/>
-  Coursera Credential ID: VJG1SJXZS4G8
-</p>
-
-<hr/>
 
 <h2>📊 GitHub Stats</h2>
 
