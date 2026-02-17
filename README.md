@@ -1,5 +1,3 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2017/08/10/08/47/code-2620118_1280.jpg)]
-
 <h1 align="center">Hello Devs!!🌞👋, I'm Sandra Wagwa</h1>
 <h3 align="center">Full-Stack Software Engineer | Nairobi, Kenya</h3>
 
