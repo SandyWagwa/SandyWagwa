@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | Nairobi, Kenya</h3>
 
 <p align="center">
-  <b> I am a esults-driven Full-Stack Developer with 3+ years of experience building fast, scalable and secure web applications.</b><br/>
+  <b> I am a Results-driven Full-Stack Developer with 3+ years of experience building fast, scalable and secure web applications.</b><br/>
   Specialized in <b>React, Vue 3, Java, Spring Boot, Node.js, Django & Laravel 11</b>.
 </p>
 
