@@ -1,5 +1,5 @@
 <h1 align="center">Hello Devs!!🌞👋, I'm Sandra Wagwa</h1>
-<h3 align="center">Full-Stack Software Engineer | Nairobi, Kenya</h3>
+<h3 align="center">Full-Stack Software Developer | Nairobi, Kenya</h3>
 
 <p align="center">
   <b> I am a Results-driven Full-Stack Developer with 3+ years of experience building fast, scalable and secure web applications.</b><br/>
