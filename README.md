@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://experience-express-deploy.lovable.app/" target="_blank"><b>Portfolio</b></a> •
+  <a href="https://sandra-wagwa-porfolio.netlify.app/" target="_blank"><b>Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/sandra-wagwa-52115229b/" target="_blank"><b>LinkedIn</b></a>
 </p>
 
